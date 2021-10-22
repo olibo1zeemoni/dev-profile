@@ -56,15 +56,23 @@
 		F505EB2B2719D8C800CE0907 /* dev-profile */ = {
 			isa = PBXGroup;
 			children = (
+				F535F3AF2722491600150072 /* ViewController */,
 				F505EB2C2719D8C800CE0907 /* AppDelegate.swift */,
 				F505EB2E2719D8C800CE0907 /* SceneDelegate.swift */,
-				F505EB302719D8C800CE0907 /* ViewController.swift */,
 				F505EB322719D8C800CE0907 /* Main.storyboard */,
 				F505EB352719D8C900CE0907 /* Assets.xcassets */,
 				F505EB372719D8C900CE0907 /* LaunchScreen.storyboard */,
 				F505EB3A2719D8C900CE0907 /* Info.plist */,
 			);
 			path = "dev-profile";
+			sourceTree = "<group>";
+		};
+		F535F3AF2722491600150072 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				F505EB302719D8C800CE0907 /* ViewController.swift */,
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
